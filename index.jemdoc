@@ -1,5 +1,6 @@
 == CSE 891-002: Deep Learning in Biometrics
 
+== Overview
 - Time: M/W 3-4:20pm
 - Place: Wells Hall Rooms A301
 - Instructor: Cunjian Chen (cunjian@msu.edu)
@@ -8,7 +9,7 @@
 This will be a seminar-style course where students will be assigned a number of papers to read. Students will then be expected to submit critiques for these papers as well as present these papers during the lecture. The papers will cover salient topics in biometrics and deep learning. These include concepts in face detection and alignment, face recognition, face anti-spoofing, iris recognition, fingerprint recognition and deep learning. The project component of this course will test the student’s ability to design deep learning solutions for biometrics applications.
 
 
-== Main References
+== Optional Textbooks
 This will be a seminar-style course, where students will be assigned a number of papers to read. The following textbooks are optional.
 
 - Anil Jain, Arun Ross, and Karthik Nandakumar, Introduction to Biometrics, Springer, 2011.
@@ -16,14 +17,56 @@ This will be a seminar-style course, where students will be assigned a number of
 
 
 == Tentative Schedule
+~~~
+{}{table}{TABLENAME}
+*Event Type*  | *Date* | *Description* | *Course Materials* ||
+Lecture 1 | 1\/6 | Introduction to Biometrics, part I |  ||
+Lecture 2 | 1\/8 | Introduction to Biometrics, part II |  ||
+Lecture 3 | 1\/13 | Convolutional Neural Networks \n {{<font color="DarkMagenta">Homework 1 out</font>}} |  ||
+Discussion | 1\/15 | Convolutional Neural Networks |  ||
+Lecture 4 | 1\/20 | Generative Adversarial Networks \n {{<font color="DarkMagenta">Homework 1 due</font>}} \n {{<font color="DarkMagenta">Homework 2 out</font>}} |  ||
+Discussion | 1\/22 | Generative Adversarial Networks |  ||
+Lecture 5 | 1\/27 | Face Detection \n {{<font color="DarkMagenta">Homework 2 due</font>}} \n {{<font color="DarkMagenta">Homework 3 out</font>}} |  ||
+Discussion | 1\/29 | Face Detection |  ||
+Lecture 6 | 2\/3 | Face Alignment \n {{<font color="DarkMagenta">Homework 3 due</font>}} \n {{<font color="DarkMagenta">Homework 4 out</font>}} |  ||
+Discussion | 2\/5 | Face Detection |  ||
+Lecture 7 | 2\/10 | Face Recognition, part I \n {{<font color="DarkMagenta">Homework 4 due</font>}} \n {{<font color="DarkMagenta">Homework 5 out</font>}} |  ||
+Discussion | 2\/12 | Face Recognition |  ||
+Lecture 7 | 2\/17 | Face Recognition, part II \n |  ||
+Discussion | 2\/19 | Face Recognition |  ||
+Lecture 8 | 2\/24 | Face Recognition, part III \n |  ||
+Discussion | 2\/26 | Face Recognition |  ||
+Spring Break | 3\/2 | No Class |  ||
+Spring Break | 3\/4 | No Class |  ||
+Lecture 9 | 3\/9 | Fingerprint Recognition (Guest Lecture) \n {{<font color="DarkMagenta">Homework 5 due</font>}} \n {{<font color="DarkMagenta">Homework 6 out</font>}} |  ||
+Discussion | 3\/11 | Fingerprint Recognition  |  ||
+Lecture 10 | 3\/16 | Iris Recognition \n {{<font color="DarkMagenta">Homework 6 due</font>}} \n {{<font color="DarkMagenta">Homework 7 out</font>}} |  ||
+Discussion | 3\/18 | Iris Recognition  |  ||
+Lecture 11 | 3\/23 | Face Presentation Attack Detection \n {{<font color="DarkMagenta">Homework 7 due</font>}} \n {{<font color="DarkMagenta">Homework 8 out</font>}} |  ||
+Discussion | 3\/25 | Face Presentation Attack Detection |  ||
+Lecture 12 | 3\/30 |Iris Presentation Attack Detection \n {{<font color="DarkMagenta">Final Project Report out</font>}}|  ||
+Discussion | 4\/1 | Iris Presentation Attack Detection |  ||
+Lecture 13 | 4\/6 | Fingerprint Presentation Attack Detection (Guest Lecture) |  ||
+Discussion | 4\/8 | Fingerprint Presentation Attack Detection |  ||
+TBD | 4\/13 |  |  ||
+TBD | 4\/15 |  {{<font color="DarkMagenta">Final Project Report due</font>}} |  ||
+Final Presentation | 4\/20 |  |  ||
+Final Presentation | 4\/22 |  |  ||
+Final Presentation | 4\/27 |  |  ||
+Final Presentation | 4\/29 |  |  
 
-- Introduction to Biometrics
-- Convolutional Neural Networks 
-- Generative Adversarial Networks 
+~~~
+
+== References:
+
 - Face Detection
+-- Methods: CascadeCNN, Faster-RCNN || SSD, YOLO, SSH, RetinaFace
+-- Datasets: FDDB, [http://shuoyang1213.me/WIDERFACE/WiderFace_Results.html WIDER FACE]
 - Face Alignment
+-- Methods: MTCNN
+-- Datasets: 300W, 330-VW
 - Face Recognition
-- Fingerprint Recognition
-- Iris Recognition
-- Presentation Attack Detection
+-- Methods: DeepFace, DeepID, DeepID2, FaceNet || Center Loss, SphereFace, CosFace, ArcFace
+-- Datasets: CASIA-Webface, VGGFace2 || LFW
+
 
