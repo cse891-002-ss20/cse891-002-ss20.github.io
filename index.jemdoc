@@ -26,30 +26,30 @@ Lecture 3 | 1\/13 | Convolutional Neural Networks \n {{<font color="DarkMagenta"
 Discussion | 1\/15 | Convolutional Neural Networks |  ||
 Lecture 4 | 1\/20 | Generative Adversarial Networks \n {{<font color="DarkMagenta">Homework 1 due</font>}} \n {{<font color="DarkMagenta">Homework 2 out</font>}} |  ||
 Discussion | 1\/22 | Generative Adversarial Networks |  ||
-Lecture 5 | 1\/27 | Face Detection \n {{<font color="DarkMagenta">Homework 2 due</font>}} \n {{<font color="DarkMagenta">Homework 3 out</font>}} |  ||
+Lecture 5 | 1\/27 | Face Detection, part I \n {{<font color="DarkMagenta">Homework 2 due</font>}} \n {{<font color="DarkMagenta">Homework 3 out</font>}} |  ||
 Discussion | 1\/29 | Face Detection |  ||
-Lecture 6 | 2\/3 | Face Alignment \n {{<font color="DarkMagenta">Homework 3 due</font>}} \n {{<font color="DarkMagenta">Homework 4 out</font>}} |  ||
+Lecture 6 | 2\/3 | Face Detection, part II |  ||
 Discussion | 2\/5 | Face Detection |  ||
-Lecture 7 | 2\/10 | Face Recognition, part I \n {{<font color="DarkMagenta">Homework 4 due</font>}} \n {{<font color="DarkMagenta">Homework 5 out</font>}} |  ||
-Discussion | 2\/12 | Face Recognition |  ||
-Lecture 7 | 2\/17 | Face Recognition, part II \n |  ||
+Lecture 7 | 2\/10 | Face Alignment \n {{<font color="DarkMagenta">Homework 3 due</font>}} \n {{<font color="DarkMagenta">Homework 4 out</font>}} |  ||
+Discussion | 2\/12 | Face Alignment |  ||
+Lecture 8 | 2\/17 | Face Recognition, part I \n {{<font color="DarkMagenta">Homework 4 due</font>}} \n {{<font color="DarkMagenta">Homework 5 out</font>}} |  ||
 Discussion | 2\/19 | Face Recognition |  ||
-Lecture 8 | 2\/24 | Face Recognition, part III \n |  ||
+Lecture 9 | 2\/24 | Face Recognition, part II \n |  ||
 Discussion | 2\/26 | Face Recognition |  ||
-Spring Break | 3\/2 | No Class |  ||
+Spring Break | 3\/2 | No Class \n |  ||
 Spring Break | 3\/4 | No Class |  ||
-Lecture 9 | 3\/9 | Fingerprint Recognition (Guest Lecture) \n {{<font color="DarkMagenta">Homework 5 due</font>}} \n {{<font color="DarkMagenta">Homework 6 out</font>}} |  ||
-Discussion | 3\/11 | Fingerprint Recognition  |  ||
-Lecture 10 | 3\/16 | Iris Recognition \n {{<font color="DarkMagenta">Homework 6 due</font>}} \n {{<font color="DarkMagenta">Homework 7 out</font>}} |  ||
-Discussion | 3\/18 | Iris Recognition  |  ||
-Lecture 11 | 3\/23 | Face Presentation Attack Detection \n {{<font color="DarkMagenta">Homework 7 due</font>}} \n {{<font color="DarkMagenta">Homework 8 out</font>}} |  ||
-Discussion | 3\/25 | Face Presentation Attack Detection |  ||
-Lecture 12 | 3\/30 |Iris Presentation Attack Detection \n {{<font color="DarkMagenta">Final Project Report out</font>}}|  ||
-Discussion | 4\/1 | Iris Presentation Attack Detection |  ||
-Lecture 13 | 4\/6 | Fingerprint Presentation Attack Detection (Guest Lecture) |  ||
-Discussion | 4\/8 | Fingerprint Presentation Attack Detection |  ||
-TBD | 4\/13 |  |  ||
-TBD | 4\/15 |  {{<font color="DarkMagenta">Final Project Report due</font>}} |  ||
+Lecture 10  | 3\/9 |  Face Recognition, part III|  ||
+Discussion | 3\/11 | Face Recognition|  ||
+Lecture 11 | 3\/16 | Fingerprint Recognition (Guest Lecture) \n {{<font color="DarkMagenta">Homework 5 due</font>}} \n {{<font color="DarkMagenta">Homework 6 out</font>}} |  ||
+Discussion | 3\/18 | Fingerprint Recognition  |  ||
+Lecture 12 | 3\/23 | Iris Recognition \n {{<font color="DarkMagenta">Homework 6 due</font>}} \n {{<font color="DarkMagenta">Homework 7 out</font>}} |  ||
+Discussion | 3\/25 | Iris Recognition  |  ||
+Lecture 13 | 3\/30 | Face Presentation Attack Detection \n {{<font color="DarkMagenta">Homework 7 due</font>}} \n {{<font color="DarkMagenta">Homework 8 out</font>}} |  ||
+Discussion | 4\/1 | Face Presentation Attack Detection |  ||
+Lecture 14 | 4\/6 |Iris Presentation Attack Detection \n {{<font color="DarkMagenta">Final Project Report out</font>}}|  ||
+Discussion | 4\/8 | Iris Presentation Attack Detection |  ||
+Lecture 15 | 4\/13 | Fingerprint Presentation Attack Detection (Guest Lecture) |  ||
+Discussion | 4\/15 | Fingerprint Presentation Attack Detection \n{{<font color="DarkMagenta">Final Project Report due</font>}} |  ||
 Final Presentation | 4\/20 |  |  ||
 Final Presentation | 4\/22 |  |  ||
 Final Presentation | 4\/27 |  |  ||
