@@ -64,7 +64,7 @@ Final Presentation | 4\/29 |  |
 -- Datasets: FDDB, [http://shuoyang1213.me/WIDERFACE/WiderFace_Results.html WIDER FACE]
 - Face Alignment
 -- Methods: MTCNN
--- Datasets: 300W, 330-VW
+-- Datasets: 300W, 300-VW
 - Face Recognition
 -- Methods: DeepFace, DeepID, DeepID2, FaceNet || Center Loss, SphereFace, CosFace, ArcFace
 -- Datasets: CASIA-Webface, VGGFace2 || LFW
