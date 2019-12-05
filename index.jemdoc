@@ -20,9 +20,9 @@ This will be a seminar-style course, where students will be assigned a number of
 ~~~
 {}{table}{TABLENAME}
 *Event Type*  | *Date* | *Description* | *Course Materials* ||
-Lecture 1 | 1\/6 | Introduction to Biometrics, part I |  ||
-Lecture 2 | 1\/8 | Introduction to Biometrics, part II |  ||
-Lecture 3 | 1\/13 | Convolutional Neural Networks \n {{<font color="DarkMagenta">Homework 1 out</font>}} |  ||
+Lecture 1 | 1\/6 | Introduction to Biometrics|  ||
+Lecture 2 | 1\/8 | Convolutional Neural Networks, part I |  ||
+Lecture 3 | 1\/13 | Convolutional Neural Networks, part II \n {{<font color="DarkMagenta">Homework 1 out</font>}} |  ||
 Discussion | 1\/15 | Convolutional Neural Networks |  ||
 Holiday | 1\/20 | No Class |  ||
 Lecture 4 | 1\/22 | Generative Adversarial Networks \n {{<font color="DarkMagenta">Homework 1 due</font>}} \n {{<font color="DarkMagenta">Homework 2 out</font>}} |  ||
@@ -60,7 +60,7 @@ Final Presentation | 4\/29 |  |
 == References:
 
 - Face Detection
--- Methods: CascadeCNN, Faster-RCNN || SSD, YOLO, SSH, RetinaFace
+-- Methods: CascadeCNN, [https://arxiv.org/pdf/1606.03473v1.pdf Faster-RCNN] || [https://arxiv.org/pdf/1708.05234.pdf FaceBoxes], SSD, YOLO, [https://arxiv.org/pdf/1708.03979.pdf SSH], [https://arxiv.org/pdf/1905.00641.pdf RetinaFace]
 -- Datasets: FDDB, [http://shuoyang1213.me/WIDERFACE/WiderFace_Results.html WIDER FACE]
 - Face Alignment
 -- Methods: MTCNN
