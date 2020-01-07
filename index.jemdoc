@@ -20,7 +20,7 @@ This will be a seminar-style course, where students will be assigned a number of
 ~~~
 {}{table}{TABLENAME}
 *Event Type*  | *Date* | *Description* | *Course Materials* ||
-Lecture 1 | 1\/6 | Introduction to Biometrics| [https://drive.google.com/file/d/1_-GtEGBPSNe8he9YHfek3tjH8P8Aavq8/view?usp=sharing Lecture01] ||
+Lecture 1 | 1\/6 | Introduction to Biometrics| [https://drive.google.com/file/d/1_-GtEGBPSNe8he9YHfek3tjH8P8Aavq8/view?usp=sharing Slides] ||
 Lecture 2 | 1\/8 | Convolutional Neural Networks, part I \n {{<font color="DarkMagenta">Homework 1 out</font>}} |  ||
 Lecture 3 | 1\/13 | Convolutional Neural Networks, part II  |  ||
 Discussion | 1\/15 | CNNs \n {{<font color="DarkMagenta">Homework 1 due</font>}} |  ||
