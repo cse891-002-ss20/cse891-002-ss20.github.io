@@ -22,7 +22,7 @@ This will be a seminar-style course, where students will be assigned a number of
 *Event Type*  | *Date* | *Description* | *Course Materials* ||
 Lecture 1 | 1\/6 | Introduction to Biometrics| [https://drive.google.com/file/d/1_-GtEGBPSNe8he9YHfek3tjH8P8Aavq8/view?usp=sharing Slides] ||
 Lecture 2 | 1\/8 | Convolutional Neural Networks, part I \n {{<font color="DarkMagenta">Homework 1 out</font>}} | [https://drive.google.com/file/d/1Z5uvkKPt_7bLEaKF3OHXHNMgoH5BDWNI/view?usp=sharing Slides] \n [homework/HW1.pdf Homework 1]||
-Lecture 3 | 1\/13 | Convolutional Neural Networks, part II  | [https://github.com/pytorch/examples/tree/master/imagenet ImageNet Training] \n [https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html Transfer Learning Tutorial] ||
+Lecture 3 | 1\/13 | Convolutional Neural Networks, part II  | [https://github.com/pytorch/examples/tree/master/imagenet ImageNet Training] \n [https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html Transfer Learning Tutorial] \n [https://arxiv.org/abs/1812.01187 Bag of Tricks] ||
 Discussion | 1\/15 | CNNs \n {{<font color="DarkMagenta">Homework 1 due</font>}} |  ||
 Holiday | 1\/20 | No Class |  ||
 Lecture 4 | 1\/22 | Generative Adversarial Networks, part I  \n {{<font color="DarkMagenta">Homework 2 out</font>}} |  ||
