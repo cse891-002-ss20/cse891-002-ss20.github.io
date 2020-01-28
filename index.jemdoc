@@ -26,7 +26,7 @@ Lecture 3 | 1\/13 | Convolutional Neural Networks, part II  | [https://drive.goo
 Discussion | 1\/15 | CNNs \n {{<font color="DarkMagenta">Homework 1 due</font>}} |  ||
 Holiday | 1\/20 | No Class |  ||
 Lecture 4 | 1\/22 | Generative Adversarial Networks, part I  \n {{<font color="DarkMagenta">Homework 2 out</font>}} | [https://drive.google.com/file/d/1g90wi1tRkmOE2xaguyqbyYtYrcZqiyPA/view?usp=sharing Slides] \n [homework/HW2.pdf Homework 2] \n [https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html DCGAN] ||
-Lecture 5 | 1\/27 | Generative Adversarial Networks, part II | [https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix CycleGAN and Pix2Pix] ||
+Lecture 5 | 1\/27 | Generative Adversarial Networks, part II | [https://drive.google.com/file/d/1wP4hl4H_ADxV2abVEL2XoP1Okxv3C1LZ/view?usp=sharing Slides] \n [https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix CycleGAN and Pix2Pix] ||
 Discussion | 1\/29 | GANs \n {{<font color="DarkMagenta">Homework 2 due</font>}} |  ||
 Lecture 6 | 2\/3 | Face Detection, part I  \n {{<font color="DarkMagenta">Homework 3 out</font>}} |  ||
 Lecture 7 | 2\/5 | Face Detection, part II |  ||
