@@ -28,9 +28,9 @@ Holiday | 1\/20 | No Class |  ||
 Lecture 4 | 1\/22 | Generative Adversarial Networks, part I  \n {{<font color="DarkMagenta">Homework 2 out</font>}} | [https://drive.google.com/file/d/1g90wi1tRkmOE2xaguyqbyYtYrcZqiyPA/view?usp=sharing Slides] \n [homework/HW2.pdf Homework 2] \n [https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html DCGAN] ||
 Lecture 5 | 1\/27 | Generative Adversarial Networks, part II | [https://drive.google.com/file/d/1wP4hl4H_ADxV2abVEL2XoP1Okxv3C1LZ/view?usp=sharing Slides] \n [https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix CycleGAN and Pix2Pix] ||
 Discussion | 1\/29 | GANs \n {{<font color="DarkMagenta">Homework 2 due</font>}} |  ||
-Lecture 6 | 2\/3 | Face Detection, part I  \n {{<font color="DarkMagenta">Homework 3 out</font>}} |  ||
+Lecture 6 | 2\/3 | Face Detection, part I  \n {{<font color="DarkMagenta">Homework 3 out</font>}} | homework/HW3.pdf Homework 3] ||
 Lecture 7 | 2\/5 | Face Detection, part II |  ||
-Discussion | 2\/10 | Face Detection \n {{<font color="DarkMagenta">Homework 3 due</font>}} | [homework/HW3.pdf Homework 3] ||
+Discussion | 2\/10 | Face Detection \n {{<font color="DarkMagenta">Homework 3 due</font>}} | [ ||
 Lecture 8 | 2\/12 | Face Alignment, part I  \n {{<font color="DarkMagenta">Homework 4 out</font>}} |  ||
 Lecture 9 | 2\/17 | Face Alignment, part II |  ||
 Discussion | 2\/19 | Face Alignment \n {{<font color="DarkMagenta">Homework 4 due</font>}} |  ||
