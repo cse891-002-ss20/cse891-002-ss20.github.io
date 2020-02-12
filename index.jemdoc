@@ -62,8 +62,8 @@ Final Presentation | 4\/29 |  |
 -- Methods: [http://users.eecs.northwestern.edu/~xsh835/assets/cvpr2015_cascnn.pdf CascadeCNN], [https://arxiv.org/pdf/1604.02878.pdf MTCNN], [https://arxiv.org/pdf/1606.03473v1.pdf Faster-RCNN] || [https://arxiv.org/pdf/1708.05234.pdf FaceBoxes], SSD, YOLO, [https://arxiv.org/pdf/1708.03979.pdf SSH], [https://arxiv.org/pdf/1905.00641.pdf RetinaFace]
 -- Datasets: FDDB, [http://shuoyang1213.me/WIDERFACE/WiderFace_Results.html WIDER FACE]
 - Face Alignment
--- Methods: MTCNN, [http://openaccess.thecvf.com/content_cvpr_2017_workshops/w33/papers/Yang_Stacked_Hourglass_Network_CVPR_2017_paper.pdf Hourglass], [https://arxiv.org/abs/1711.06753 Wing Loss], [https://arxiv.org/abs/1902.10859 PFLD], [http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Adaptive_Wing_Loss_for_Robust_Face_Alignment_via_Heatmap_Regression_ICCV_2019_paper.pdf Heat Map]
--- Datasets: [https://ibug.doc.ic.ac.uk/resources/300-W/ 300W], [https://ibug.doc.ic.ac.uk/resources/300-VW/ 300-VW], AFLW, [https://wywu.github.io/projects/LAB/WFLW.html WFLW]
+-- Methods: [https://arxiv.org/pdf/1604.02878.pdf MTCNN], [https://arxiv.org/abs/1902.10859 PFLD], [https://arxiv.org/abs/1711.06753 Wing Loss] || [https://arxiv.org/pdf/1603.06937.pdf Hourglass], [https://arxiv.org/abs/1812.01936 U-Net], [https://arxiv.org/abs/1805.10483 LAB], [https://arxiv.org/pdf/1803.04108.pdf SAN]
+-- Datasets: [https://ibug.doc.ic.ac.uk/resources/300-W/ 300W], [https://ibug.doc.ic.ac.uk/resources/2nd-facial-landmark-tracking-competition-menpo-ben/ Menpo], [https://ibug.doc.ic.ac.uk/resources/300-VW/ 300-VW], [https://www.tugraz.at/institute/icg/research/team-bischof/lrs/downloads/aflw/ AFLW], [https://wywu.github.io/projects/LAB/WFLW.html WFLW]
 - Face Recognition
 -- Methods: DeepFace, DeepID, DeepID2, FaceNet || Center Loss, SphereFace, CosFace, ArcFace
 -- Datasets: CASIA-Webface, VGGFace2 || LFW
