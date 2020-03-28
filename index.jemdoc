@@ -43,14 +43,14 @@ Discussion | 3\/11 | Face Recognition (Honglin Bao) \n {{<font color="DarkMagent
 Lecture 12 | 3\/16 | Face Presentation Attack Detection, part I \n {{<font color="DarkMagenta">Homework 6 out</font>}} | [https://drive.google.com/file/d/1Y1TSBWgQCYSMOH612ulJ1jS3kEehJEcc/view?usp=sharing Slides] \n [homework/HW6.pdf Homework 6] \n [https://arxiv.org/abs/1908.10654 CASIA-SURF] \n [https://arxiv.org/abs/2003.05136 CASIA-SURF CeFA]||
 Lecture 13 | 3\/18 | Face Presentation Attack Detection, part II | [https://drive.google.com/file/d/1MFb241gBb34jStbSNlYkIK3C6YVtbRrM/view?usp=sharing Slides] \n [http://openaccess.thecvf.com/content_CVPRW_2019/papers/CFS/Liu_Multi-Modal_Face_Anti-Spoofing_Attack_Detection_Challenge_at_CVPR2019_CVPRW_2019_paper.pdf Anti-spoofing @CVPR2019] \n Anti-spoofing @CVPR2020||
 Discussion | 3\/23 | Face PAD (Andrew Hou) \n {{<font color="DarkMagenta">Homework 6 due</font>}} |  ||
-Lecture 14 | 3\/25 | Fingerprint Recognition \n (Guest Lecture by Joshua Engelsma) \n {{<font color="DarkMagenta">Homework 7 out</font>}} | [https://drive.google.com/file/d/12jzJ8A1YiAdd79ThSzGXtq0u_Dw-QHD9/view?usp=sharing Slides] \n [homework/HW7.pdf Homework 7] ||
-Lecture 15 | 3\/30 | Fingerprint PAD \n (Guest Lecture by Joshua Engelsma) |  ||
+Lecture 14 | 3\/25 | Fingerprint Recognition \n {{<font color="mediumseagreen">Guest Lecture by Joshua Engelsma</font>}} \n {{<font color="DarkMagenta">Homework 7 out</font>}} | [https://drive.google.com/file/d/12jzJ8A1YiAdd79ThSzGXtq0u_Dw-QHD9/view?usp=sharing Slides] \n [homework/HW7.pdf Homework 7] ||
+Lecture 15 | 3\/30 | Fingerprint PAD \n {{<font color="mediumseagreen">Guest Lecture by Joshua Engelsma</font>}} |  ||
 Discussion | 4\/1 | Fingerprint \n {{<font color="DarkMagenta">Homework 7 due</font>}}|  ||
-Lecture 16| 4\/6 | Deepfakes \n (Guest Lecture by Dr. Antitza Dantcheva) \n {{<font color="DarkMagenta">Homework 8 out</font>}} |  ||
+Lecture 16| 4\/6 | Deepfakes \n {{<font color="mediumseagreen">Guest Lecture by Dr. Antitza Dantcheva, INRIA</font>}} \n {{<font color="DarkMagenta">Homework 8 out</font>}} |  ||
 Lecture 17 | 4\/8 | Iris Recognition and PAD |  ||
-Discussion  | 4\/13 | Iris \n {{<font color="DarkMagenta">Homework 8 due</font>}} |  ||
-Final Presentation | 4\/15 | {{<font color="DarkMagenta">Final Project Report due</font>}} |  ||
-Final Presentation | 4\/20 |  |  ||
+Lecture 18  | 4\/13 | Iris \n {{<font color="DarkMagenta">Homework 8 due</font>}} |  ||
+Lecture 19 | 4\/15 | Cross-spectral Face Recognition \n {{<font color="mediumseagreen">Guest Lecture by Dr. Benjamin Riggan, UNL</font>}} |  ||
+Final Presentation | 4\/20 | {{<font color="DarkMagenta">Final Project Report due</font>}}  |  ||
 Final Presentation | 4\/22 |  |  ||
 Final Presentation | 4\/27 |  |  ||
 Final Presentation | 4\/29 |  |  
